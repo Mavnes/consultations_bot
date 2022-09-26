@@ -1,0 +1,6 @@
+[{"class_cons": "Математический анализ", "room_cons": "В-1111", "date_cons": "11.11.2011", "time_cons": "11:11", "people_cons": ["М П М", "С М С"]},
+{"class_cons": "Линейная алгебра", "room_cons": "В-209", "date_cons": "12.12.2033", "time_cons": "23:20", "people_cons": ["М П М", "С М С"]},
+{"class_cons": "БЖД", "room_cons": "Б-409", "date_cons": "26.09.2022", "time_cons": "13:40", "people_cons": ["М П М", "С М С", "Иванов Иван Иванович"]},
+{"class_cons": "Основы алгоритмизации", "room_cons": "В-1202", "date_cons": "22.09.2022", "time_cons": "15:20", "people_cons": ["М П М", "С М С"]},
+{"class_cons": "Элективные дисциплины по физической культуре и спорту", "room_cons": "В-1002", "date_cons": "27.09.2023", "time_cons": "13:40", "people_cons": ["М П М", "С М С"]}
+]
