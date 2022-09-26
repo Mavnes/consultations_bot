@@ -25,7 +25,7 @@ class Consultation:
 
 @bot.message_handler(commands=['start', 'go'])
 def start_handler(message):
-    bot.send_message(message.chat.id, 'Привет, я чертила')
+    bot.send_message(message.chat.id, 'Привет, я бот для записи на консультации!')
 
 
 # /addme Иванов Иван Иванович -r ВТВ-268 -c Мат. анализ -d 01.01.2020 -t 15:00
